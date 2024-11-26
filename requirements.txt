@@ -84,12 +84,15 @@ diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630
 dill @ file:///C:/b/abs_f79eg27d2q/croot/dill_1715094735295/work
 distributed @ file:///C:/b/abs_27jqurd3gk/croot/distributed_1715844512065/work
 distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
+dnspython==2.7.0
 docstring-to-markdown @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/docstring-to-markdown_1699484265167/work
 docutils @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/docutils_1699474820579/work
+email_validator==2.2.0
 entrypoints @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/entrypoints_1699484295227/work
 et-xmlfile @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/et_xmlfile_1699500373144/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastapi==0.115.5
+fastapi-cli==0.0.5
 fastjsonschema @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-fastjsonschema_1699475134300/work
 filelock @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/filelock_1701807523603/work
 flake8 @ file:///C:/b/abs_caud66drfv/croot/flake8_1708965316778/work
@@ -107,6 +110,7 @@ h5py @ file:///C:/b/abs_c4ha_1xv14/croot/h5py_1715094776210/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/b/abs_a4v1zcmvb9/croot/holoviews_1718295339559/work
 httpcore @ file:///C:/b/abs_55n7g233bw/croot/httpcore_1706728507241/work
+httptools==0.6.4
 httpx @ file:///C:/b/abs_43e135shby/croot/httpx_1723474830126/work
 hvplot @ file:///C:/b/abs_d01wnxamc3/croot/hvplot_1715090456803/work
 hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
@@ -264,6 +268,7 @@ python-json-logger @ file:///C:/Users/dev-admin/perseverance-python-buildout/cro
 python-lsp-black @ file:///C:/b/abs_5dhen_5vga/croot/python-lsp-black_1709232962589/work
 python-lsp-jsonrpc @ file:///croot/python-lsp-jsonrpc_1708962872556/work
 python-lsp-server @ file:///C:/b/abs_2cdyzvcq4z/croot/python-lsp-server_1708971796975/work
+python-multipart==0.0.17
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 python-snappy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-snappy_1699564939880/work
 pytoolconfig @ file:///C:/b/abs_f2j_xsvrpn/croot/pytoolconfig_1701728751207/work
@@ -304,6 +309,7 @@ semver @ file:///C:/b/abs_4bkbn3v6jp/croot/semver_1709243682483/work
 Send2Trash @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/send2trash_1701806400767/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 setuptools==69.5.1
+shellingham==1.5.4
 sip @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/sip_1699475590677/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smart-open @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/smart_open_1699483216058/work
@@ -349,6 +355,7 @@ traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
 truststore @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/truststore_1701881385424/work
 Twisted @ file:///C:/b/abs_e7yqd811in/croot/twisted_1708702883769/work
 twisted-iocpsupport @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/twisted-iocpsupport_1699496891011/work
+typer==0.13.1
 typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
 tzdata @ file:///croot/python-tzdata_1690578112552/work
 uc-micro-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/uc-micro-py_1699545612984/work
@@ -359,9 +366,11 @@ urllib3 @ file:///C:/b/abs_a7hvzm4y95/croot/urllib3_1718912661242/work
 uvicorn==0.32.1
 w3lib @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/w3lib_1709162573908/work
 watchdog @ file:///C:/b/abs_b3l_3s276z/croot/watchdog_1717166538403/work
+watchfiles==1.0.0
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/webencodings_1699497069416/work
 websocket-client @ file:///C:/b/abs_5dmnxxoci9/croot/websocket-client_1715878351319/work
+websockets==14.1
 Werkzeug @ file:///C:/b/abs_8bittcw9jr/croot/werkzeug_1716533366070/work
 whatthepatch @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/whatthepatch_1699497134590/work
 wheel==0.43.0
